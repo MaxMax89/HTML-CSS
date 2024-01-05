@@ -1,0 +1,48 @@
+body {
+    font: 10pt Arial, Helvetica, sans-serif;
+    background: #fff;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.1pt;
+    color: #752641;
+    margin-bottom: 0;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.header {
+    font-size: 24pt;
+    background: #8fa09b;
+    font-weight: bold;
+    color: #edeed5;
+    padding: 5px;
+}
+
+.content {
+    margin-right: 130px;
+    padding: 10px;
+    border-right: 1px dashed #183533;
+}
+
+.content p {
+    margin-top: 0.3em;
+}
+
+.sidebar {
+    position: absolute;
+    right: 0;
+    top: 60px;
+    width: 120px;
+}
+
+.footer {
+    background: #8fa09b;
+    color: #fff;
+    padding: 5px;
+}

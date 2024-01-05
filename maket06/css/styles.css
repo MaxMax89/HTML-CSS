@@ -1,0 +1,50 @@
+body {
+    font: 0.8em Arial, Helvetica, sans-serif;
+    background: #D7E1F2;
+}
+
+a {
+    color: #008BCE;
+    text-decoration: none;
+}
+
+h2 {
+    margin: 0 0 0 1em;
+}
+
+.container {
+    width: 500px; /* Ширина макета */
+    margin: 0 auto; /* Выравниваем по центру */
+    background: #FCE600;
+}
+
+.header {
+    font-size: 2.2em;
+    text-align: center;
+    padding: 5px;
+    background: #D71920;
+}
+
+.navbar, .aside {
+    float: left;
+    width: 110px;
+    padding: 5px;
+}
+
+.content {
+    background: #54B948;
+    margin: 0 120px;
+    padding: 10px;
+}
+
+.aside {
+    float: right;
+    color: #000;
+}
+
+.footer {
+    clear: both;
+    padding: 5px;
+    background: #D71920;
+}
+

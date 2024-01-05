@@ -1,6 +1,7 @@
-body{
+body {
     background-image: url("../img/img1.jpg");
 }
+
 .list {
     width: 715px;
     height: 583px;
@@ -13,14 +14,14 @@ body{
 }
 
 /* укладка красной вертикальной линии */
- .list::before{
+.list::before {
     content: '';
     width: 2px;
     height: 100%;
     position: absolute;
     top: 0;
     left: 36px;
-    background-color: rgba(255,0,0,0.6);
+    background-color: rgba(255, 0, 0, 0.6);
 }
 
 /* моделирование синих горизонтальных линий */
@@ -41,16 +42,16 @@ body{
     word-spacing: 5px;
 }
 
-h1{
+h1 {
     text-align: center;
 }
 
-a{
+a {
     color: #827d7d;
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     color: red;
     text-decoration: underline;
 }
@@ -61,16 +62,24 @@ ul {
 
 }
 
- li:hover{
-     border-radius: 5px;
-     -webkit-box-shadow: 1px 9px 34px 2px rgba(34, 60, 80, 0.4);
-     -moz-box-shadow: 1px 9px 34px 2px rgba(34, 60, 80, 0.4);
-     box-shadow: 1px 9px 34px 2px rgba(34, 60, 80, 0.4);
+li{
+    margin-bottom: 5px;
 }
 
-.h2_img{
+li:hover {
+    border-radius: 5px;
+    -webkit-box-shadow: 1px 9px 34px 2px rgba(34, 60, 80, 0.4);
+    -moz-box-shadow: 1px 9px 34px 2px rgba(34, 60, 80, 0.4);
+    box-shadow: 1px 9px 34px 2px rgba(34, 60, 80, 0.4);
+}
+
+.h2_img {
     border: 4px solid white;
     width: 40px;
     height: 40px;
     margin-right: 20px;
+}
+
+.list {
+    margin-bottom: 50px;
 }
