@@ -39,7 +39,7 @@
 		?>
         <div class="apartments_block_product">
 			<? foreach ($array as $value): ?>
-                <section class="apartments_block_section">
+                <div class="apartments_block_product_card">
                     <div class="apartments_block_product_img">
                         <img src="<?= $value['img'] ?>" alt="pic">
                     </div>
@@ -53,7 +53,7 @@
                             <img src="../img/apartments/logo_bed.png" alt="">
                         </div>
                     </div>
-                </section>
+                </div>
 			<? endforeach; ?>
         </div>
     </div>
@@ -69,8 +69,6 @@
     </div>
 
 </div>
-</div>
-
 
 </html>
 
