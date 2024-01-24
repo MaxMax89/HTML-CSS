@@ -50,7 +50,7 @@
                             <img src="../img/apartments/logo_shower.png" alt="">
                             <p>2BA</p>
                             <p>2DB</p>
-                            <img src="../img/apartments/logo_bed.png" alt="">
+                            <img src="img/apartments/logo_bed.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
     </div>
     <div class="apartments_block_form">
         <div class="apartments_block_form_search">
-            <img src="../img/apartments/logo_magnifier.png" alt="">
+            <img src="img/apartments/logo_magnifier.png" alt="">
             <form action="#">
                 <input type="text" placeholder="Search location">
                 <button>Search</button>
