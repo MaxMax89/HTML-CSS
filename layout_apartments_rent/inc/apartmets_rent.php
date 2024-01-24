@@ -8,32 +8,32 @@
 				[
 					'name' => 'Random Street, Apt B453, New York',
 					'price' => '$3,500',
-					'img' => '../img/apartments/apartment_01.jpg'
+					'img' => 'img/apartments/apartment_01.jpg'
 				],
 				[
 					'name' => 'Random Street, Apt B453, New York',
 					'price' => '$3,500',
-					'img' => '../img/apartments/apartment_02.jpg'
+					'img' => 'img/apartments/apartment_02.jpg'
 				],
 				[
 					'name' => 'Random Street, Apt B453, New York',
 					'price' => '$3,500',
-					'img' => '../img/apartments/apartment_03.jpg'
+					'img' => 'img/apartments/apartment_03.jpg'
 				],
 				[
 					'name' => 'Random Street, Apt B453, New York',
 					'price' => '$3,500',
-					'img' => '../img/apartments/apartment_04.jpg'
+					'img' => 'img/apartments/apartment_04.jpg'
 				],
 				[
 					'name' => 'Random Street, Apt B453, New York',
 					'price' => '$3,500',
-					'img' => '../img/apartments/apartment_05.jpg'
+					'img' => 'img/apartments/apartment_05.jpg'
 				],
 				[
 					'name' => 'Random Street, Apt B453, New York',
 					'price' => '$3,500',
-					'img' => '../img/apartments/apartment_06.jpg'
+					'img' => 'img/apartments/apartment_06.jpg'
 				]
 			];
 		?>
