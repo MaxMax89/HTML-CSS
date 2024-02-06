@@ -18,22 +18,29 @@
 body {
     font-family: 'Montserrat';
     font-weight: bold;
+    padding: 0 20px;
 }
 
 /*-----OUR COMPANY BLOCK-----*/
 .our_company {
     display: flex;
-    justify-content: center;
-    padding: 145px 30px 78px 30px;
+    justify-content: space-between;
+    max-width: 1112px;
+    margin: 0 auto;
+    padding: 144px 0 78px 0;
+
 }
 
 .our_company_title {
-    margin: 19px 0 48px 0;
+    margin: 14px 0 48px 0;
     font-size: 40px;
+
 }
 
 .our_company_text {
-    margin: 0 135px 0 0;
+    max-width: 540px;
+    margin-right: 30px;
+    padding: 15px 0;
 }
 
 .our_company_text p {
@@ -45,96 +52,127 @@ body {
 }
 
 .our_company_widget {
-    width: 430px;
-    height: 430px;
+    max-width: 490px;
+    max-height: 490px;
     display: flex;
-    align-items: flex-start;
-    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: space-between;
     align-content: space-between;
+
 }
+
+.our_company_widget_row {
+    display: flex;
+}
+
 
 .our_company_widget_img {
-    background: #f6f5f4;
-    margin-bottom: 30px;
-    width: 200px;
+    width: 50%;
     height: 200px;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
 }
 
+.our_company_widget_item {
+    background: #f6f5f4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+}
 .our_company_widget_count {
-    margin: 66px 0 0 0;
     color: #ffcc01;
     font-size: 40px;
     font-weight: bold;
-    text-align: center;
+    margin: 0 auto;
 }
 
 .our_company_widget_name {
-    margin-top: 1px;
     text-align: center;
 }
 
 /*--------APARTMENTS FO REND BLOCK--------*/
-
-.apartments_block {
+.apartments_wrapper {
+    width: 100%;
     background: #f6f5f4;
-    padding: 0 30px 84px 30px;
+}
+.apartments_block {
+    max-width: 1112px;
+    margin: 0 auto;
+    padding: 0 0 84px 0;
 }
 
 .apartments_block_content {
     margin-bottom: 27px;
+    display: flex;
+    justify-content:  center;
 }
 
 .apartments_block_title {
+    width: 100%;
     display: flex;
-    width: 1112px;
     margin: 0 auto;
 }
 
 .apartments_block_title h1 {
-    margin: 59px 0;
+    font-size: 40px;
+    letter-spacing: -2px;
+    margin: 59px 8px;
     justify-content: flex-start;
 }
 
 .apartments_block_product {
-    margin: 0 auto;
     display: flex;
-    align-items: flex-start;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-content: space-between;
-    width: 1112px;
+    margin: 0 -15px;
+
 }
 
-.apartments_block_product_card {
-    height: 500px;
-    background: #ffffff;
+.apartments_block_product_card{
+    flex: 0 1 33.333%;
+    padding: 0 15px;
+    box-sizing: border-box;
+    min-height: 500px;
     margin: 0 0 35px 0;
+}
+
+.apartments_block_product_item {
+    background: #ffffff;
+    height: 100%;
     -webkit-box-shadow: 0px 0px 8px 5px rgba(34, 60, 80, 0.08);
     -moz-box-shadow: 0px 0px 8px 5px rgba(34, 60, 80, 0.08);
     box-shadow: 0px 0px 8px 5px rgba(34, 60, 80, 0.08);
+
 }
 
-.apartments_block_product_img {
-    width: 350px;
-    height: 380px;
+ .apartments_block_product_img {
+     width: 100%;
+     height: 380px;
 }
-
-.apartments_block_product_img img {
+ .apartments_block_product_img img {
     width: 100%;
     height: 100%;
+     object-fit: cover;
+}
+
+.apartments_block_product_info {
+    padding: 22px 20px 32px 20px;
 }
 
 .apartments_block_product_name {
+    margin: 0;
     font-size: 15px;
-    margin: 27px 0 0 22px;
     letter-spacing: -0.8px;
 }
 
+
+
 .apartments_block_product_price {
-    margin: 24px 22px 26px 22px;
     display: flex;
     justify-content: space-between;
+    margin-top: 24px;
 }
 
 .apartments_block_product_price p {
@@ -167,13 +205,13 @@ body {
 
 .apartments_block_form {
     display: flex;
-    width: 1112px;
+    width: 100%px;
     height: 70px;
     margin: 0 auto;
 }
 
 .apartments_block_form_search {
-    width: 480px;
+    width: 482px;
     height: 70px;
     background: #ffffff;
     border-radius: 5px;
@@ -183,11 +221,12 @@ body {
 
 .apartments_block_form form {
     display: flex;
+    width: 90%;
 }
 
 .apartments_block_form form input{
     height: 100%;
-    width: 307px;
+    width: 100%;
     border: none;
     outline: none;
     padding: 0;
@@ -199,23 +238,79 @@ body {
     height: 14px;
     width: 16px;
     margin-top: 28px;
+    margin-left: -3px;
 }
 
 .apartments_block_form form button {
     border: none;
     background: #ffcc01;
     border-radius: 0 5px 5px 0;
-    width: 115px;
+    width: 35%;
     font-size: 15px;
     font-weight: initial;
 }
 
 .all_apartments {
+
+    text-align: center;
+    font-size: 15px;
+    font-weight: initial;
+    width: 250px;
     background: #ffffff;
     border: none;
     margin-left: 40px;
     border-radius: 5px;
-    font-size: 14px;
-    padding: 0 41px 0 49px;
 }
 
+.all_apartments a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    font-size: 14px;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+}
+
+@media (max-width: 1200px) {
+    .our_company_text {display: flex; flex-direction: column; justify-content: space-between;}
+    .our_company_text p {margin: 0;}
+    .our_company_title {margin-bottom: 0;}
+    .apartments_block {margin: 0 15px;}
+    .apartments_block_product_card {min-height: auto;}
+    .apartments_block_product_img {position: relative; padding: 0 0 100% 0; height: auto;}
+    .apartments_block_product_img img {position: absolute; top: 0; left: 0;}
+}
+
+@media (max-width: 992px) {
+    .our_company {flex-direction: column; align-items: center; max-width: 700px; margin: 0 auto;}
+    .our_company_text { margin: 0; width: 100%; max-width: none;}
+    .our_company_widget { width: 100%; max-width: none; max-height: none;}
+    .our_company_widget_row {justify-content: space-between;}
+    .our_company_widget_img {width: 300px; height: 300px; max-width: none;}
+    .our_company_widget_item {width: 100%;}
+    .our_company_title {margin-bottom: 30px;}
+    .our_company_text p {margin-bottom: 30px;}
+    .apartments_block_product_info {padding: 15px 20px 15px 20px;}
+    .apartments_block_product_card {flex: 0 1 50%}
+    .apartments_block_form_search {width: 60%;}
+}
+
+@media (max-width: 768px) {
+    body {padding: 0;}
+    .our_company {width: 100%;}
+    .our_company_widget {width: 100%;}
+    .our_company_widget_row {flex-direction: column;}
+    .our_company_widget_img {width: 100%; padding: 15px 0;}
+    .all_apartments {width: 30%;}
+}
+
+@media (max-width: 556px) {
+    .apartments_block_product_card {flex: 0 1 100%}
+    .apartments_block_form {flex-direction: column; height: 170px; justify-content: space-between; align-items: center;}
+    .apartments_block_form_search {width: 100%; height: 70px;}
+    .all_apartments {height: 70px; width: 100%; margin-left: 0;}
+    .apartments_block_title h1 {font-size: 30px;}
+    .our_company_title {font-size: 30px;}
+}
