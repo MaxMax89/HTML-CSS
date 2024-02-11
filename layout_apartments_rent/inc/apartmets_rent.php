@@ -40,24 +40,24 @@
 			?>
             <div class="apartments_block_product">
 				<? foreach ($array as $value): ?>
-                <div class="apartments_block_product_card">
-                    <div class="apartments_block_product_item">
-                        <div class="apartments_block_product_img">
-                            <a href="#"><img src="<?= $value['img'] ?>" alt="img"></a></div>
-                        <div class="apartments_block_product_info">
-                        <a href="#"><p class="apartments_block_product_name"><?= $value['name'] ?></p></a>
-                        <div class="apartments_block_product_price">
-                            <p><?= $value['price'] ?></p>
-                            <div class="apartments_block_product_price_icon">
-                                <img src="img/apartments/logo_shower.png" alt="">
-                                <p>2BA</p>
-                                <p>2DB</p>
-                                <img src="img/apartments/logo_bed.png" alt="">
+                    <div class="apartments_block_product_card">
+                        <div class="apartments_block_product_item">
+                            <div class="apartments_block_product_img">
+                                <a href="#"><img src="<?= $value['img'] ?>" alt="img"></a></div>
+                            <div class="apartments_block_product_info">
+                                <a href="#"><p class="apartments_block_product_name"><?= $value['name'] ?></p></a>
+                                <div class="apartments_block_product_price">
+                                    <p><?= $value['price'] ?></p>
+                                    <div class="apartments_block_product_price_icon">
+                                        <img src="img/apartments/logo_shower.png" alt="">
+                                        <p>2BA</p>
+                                        <p>2DB</p>
+                                        <img src="img/apartments/logo_bed.png" alt="">
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        </div>
                     </div>
-                </div>
 				<? endforeach; ?>
             </div>
         </div>
