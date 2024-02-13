@@ -1,15 +1,5 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Appartments</title>
-    <link rel="stylesheet" href="../css/normalize.css">
-    <link rel="stylesheet" href="css/style.css?v=134_<?= time() ?>">
-</head>
-<body>
+<? include 'data_site.php'; ?>
+
 <div class="our_company">
     <div class="our_company_text">
         <h1 class="our_company_title">Our’s Company <br>Statistics </h1>
@@ -27,41 +17,15 @@
         </p>
     </div>
 
-	<?
-	$arr =
-		[
-			[
-				'name' => 'Appartments',
-				'count' => '748',
-				'img' => 'img/our_company/appartment.jpg'
-			],
-			[
-				'name' => 'Clients',
-				'count' => '3854',
-				'img' => 'img/our_company/clients.jpg'
-			],
-			[
-				'name' => 'Employyes',
-				'count' => '24',
-				'img' => 'img/our_company/employyes.jpg'
-			],
-			[
-				'name' => 'Awards',
-				'count' => '14',
-				'img' => 'img/our_company/awards.jpg'
-			]
-		];
-	?>
+	<? $statisticCompanyChunk = array_chunk($statisticCompany, 2) ?>
     <div class="our_company_widget">
-		<? foreach (array_chunk($arr, 2) as $value): ?>
+		<? foreach ($statisticCompanyChunk as $row): ?>
             <div class="our_company_widget_row">
-				<? foreach ($value
-
-							as $v): ?>
+				<? foreach ($row as $item): ?>
                     <div class="our_company_widget_img">
                         <div class="our_company_widget_item">
-                            <p class="our_company_widget_count"><?= $v['count'] ?></p>
-                            <p class="our_company_widget_name"><?= $v['name'] ?></p>
+                            <p class="our_company_widget_count"><?= $item['count'] ?></p>
+                            <p class="our_company_widget_name"><?= $item['name'] ?></p>
                         </div>
                     </div>
 				<? endforeach; ?>
