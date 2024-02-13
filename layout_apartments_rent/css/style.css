@@ -15,6 +15,8 @@
     src: url("../fonts/Montserrat-Medium.ttf");
 }
 
+
+
 body {
     font-family: 'Montserrat';
     font-weight: bold;
@@ -23,6 +25,7 @@ body {
 
 /*-----OUR COMPANY BLOCK-----*/
 .our_company {
+    box-sizing: border-box;
     display: flex;
     justify-content: space-between;
     max-width: 1112px;
@@ -113,6 +116,7 @@ body {
 }
 
 .apartments_block_title {
+    box-sizing: border-box;
     width: 100%;
     display: flex;
     margin: 0 auto;
@@ -309,16 +313,16 @@ body {
     body {padding: 0;}
     .our_company {width: 100%;}
     .our_company_widget {width: 100%;}
-    .our_company_widget_row {flex-direction: column;}
-    .our_company_widget_img {width: 300px; margin: 0 auto; padding: 15px 0;}
     .all_apartments {width: 30%;}
 }
 
 @media (max-width: 556px) {
+    .our_company_title {font-size: 30px;}
+    .our_company_widget_row {flex-direction: column;}
+    .our_company_widget_img {width: 300px; margin: 0 auto; padding: 15px 0;}
     .apartments_block_product_card {flex: 0 1 100%}
     .apartments_block_form {flex-direction: column; height: 170px; justify-content: space-between; align-items: center;}
     .apartments_block_form_search {width: 100%; height: 70px;}
     .all_apartments {height: 70px; width: 100%; margin-left: 0;}
     .apartments_block_title h1 {font-size: 30px;}
-    .our_company_title {font-size: 30px;}
 }
