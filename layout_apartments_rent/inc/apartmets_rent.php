@@ -12,7 +12,8 @@
                     <div class="apartments_block_product_card">
                         <div class="apartments_block_product_item">
                             <div class="apartments_block_product_img">
-                                <a href="#"><img src="<?= $item['img'] ?>" alt="img"></a></div>
+                                <a href="#"><img src="<?= $item['img'] ?>" alt="img"></a>
+                            </div>
                             <div class="apartments_block_product_info">
                                 <a href="#"><p class="apartments_block_product_name"><?= $item['name'] ?></p></a>
                                 <div class="apartments_block_product_price">

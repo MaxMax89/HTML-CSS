@@ -11,16 +11,18 @@
 <body>
 <? include 'data_site.php'; ?>
 <header class="header">
-    <div class="container">
+    <div class="header_container container">
         <div class="header_media_icons">
-            <img src="img/social_icons.png" alt="img">
+            <?foreach ($headerSocial as  $social):?>
+                <a href="<?=$social['link']?>"><img src="img/icons/<?=$social['logo']?>" alt="img"></a>
+            <?endforeach;?>
         </div>
         <div class="header_communication_icons">
             <div class="header_communication_icons_mail">
                 <div class="header_logo_img">
-                    <img src="img/mail_logo.png" alt="img">
+                    <a href="<?=$headerMail?>"><img src="img/mail_logo.png" alt="img"></a>
                 </div>
-                <p><?= $headerMail; ?></p>
+                <a href="<?=$headerMail?>"><p ><?= $headerMail; ?></p></a>
             </div>
             <div class="header_communication_icons_phone">
                 <div class="header_logo_img">
