@@ -63,3 +63,9 @@ $workers = [
 	]
 ];
 
+$bestFiguresCount = [
+	'projects' => ['name' => 'Projects Complete', 'count' => '869+'],
+	'customers'=> ['name' => 'Happy Customer','count' => '317+'],
+	'rate'     => ['name' => 'Success Rate','count' => '98%'],
+	'awards'   => ['name' => 'Awards' ,'count' => '56+']
+];

@@ -1,5 +1,4 @@
 <div class="grow_business_block" style="background-image: url('img/bg_grow.jpg')">
-    <div class="grow_business_container container">
         <div class="grow_business_content">
             <div class="grow_business_body">
                 <h1 class="grow_business_title title">Grow Your Business With Us </h1>
@@ -15,5 +14,4 @@
         <div class="grow_business_people">
             <div class="grow_business_people_img" style="background-image: url('img/grow_business_people.png')"></div>
         </div>
-    </div>
 </div>
