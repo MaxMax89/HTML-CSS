@@ -10,19 +10,19 @@
 </head>
 <body>
 <? include 'data_site.php'; ?>
+
 <header class="header">
     <div class="header_container container">
         <div class="header_media_icons">
-            <?foreach ($headerSocial as  $social):?>
-                <a href="<?=$social['link']?>"><img src="img/icons/<?=$social['logo']?>" alt="img"></a>
-            <?endforeach;?>
+			<? foreach ($headerSocial as $social): ?>
+                <a href="<?= $social['link'] ?>" style="background-image: url('img/icons/<?= $social['logo'] ?>')"></a>
+			<? endforeach; ?>
         </div>
         <div class="header_communication_icons">
             <div class="header_communication_icons_mail">
                 <div class="header_logo_img">
-                    <a href="<?=$headerMail?>"><img src="img/mail_logo.png" alt="img"></a>
+                    <a class="header_contacts_mail" href="<?= $headerMail ?>" style="background-image: url('img/mail_logo.png')"><?= $headerMail; ?></a>
                 </div>
-                <a href="<?=$headerMail?>"><p ><?= $headerMail; ?></p></a>
             </div>
             <div class="header_communication_icons_phone">
                 <div class="header_logo_img">
