@@ -8,6 +8,7 @@ function activeiteTopMenu(){
     var $icon = $(this);
     $icon.toggleClass('active');
     $(".header_navbar_menu").toggleClass('active');
+    $(".header_media_icons").toggleClass('active');
 }
 
     function activeiteFooterMenu(){

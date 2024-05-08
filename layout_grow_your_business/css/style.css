@@ -46,12 +46,6 @@ body{
     align-items: center;
 }
 
-.header {
-    background: #095dc7;
-    height: 45px;
-}
-
-
 .btn {
     display: inline-flex;
     justify-content: center;
@@ -82,7 +76,12 @@ body{
 }
 
 .header {
+    background: #095dc7;
     width: 100%;
+}
+
+.header_container {
+    height: 45px;
 }
 
 .header_media_icons {
@@ -91,11 +90,18 @@ body{
 }
 
 .header_media_icons a {
-    background-repeat: no-repeat;
-    background-position: center center;
-    display: inline-block;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
     height: 100%;
     width: 30px;
+    fill: #85af4b;
+}
+
+.header_media_icons svg{
+    fill: white;
+    height: 11px;
+    margin: auto 0;
 }
 
 .header_communication_icons {
@@ -115,9 +121,14 @@ body{
     background-repeat: no-repeat;
     display: inline-block;
     line-height: 39px;
-    padding: 1px 0;
     padding-left: 30px;
     color: white;
+}
+
+.header_contacts_mail svg{
+    width: 10px;
+    height: 100%;
+    margin-right: 10px;
 }
 
 .header_communication_icons_phone {
@@ -128,6 +139,11 @@ body{
 .header_logo_img {
     display: flex;
     align-items: center;
+}
+
+.header_logo_img svg{
+    width: 12px;
+    fill: white;
 }
 
 .header_communication_icons p {
@@ -146,6 +162,7 @@ body{
     margin: 0 auto;
     background-color: white;
     width: 100%;
+    z-index: 1;
 }
 
 .header_navbar_menu  {
@@ -194,7 +211,7 @@ body{
     .header_navbar_menu.active{
         position: absolute;
         width: 100%;
-        top: 135px;
+        top: 105px;
         left: 0;
         display: block;
         background-color: white;
@@ -721,13 +738,14 @@ body{
     .grow_business_btn {margin: 0 15px 30px 0;}
     .grow_business_people {width: 85%}
     .grow_business_text {font-size: calc(1vw + 1); margin: 20px 0 20px 0;}
-    .grow_business_block {padding-left: 15px}
+    .grow_business_block {padding:50px 0 0 15px}
     .grow_business_title {margin: 0 0 15px 0;}
 }
 
 @media (max-width: 768px) {
+    .header {position: fixed; z-index: 1;}
     .footer_menu {display: none;}
-    .grow_business_block {flex-direction: column;}
+    .grow_business_block {flex-direction: column; padding-top: 105px;}
     .grow_business_content{margin: 0 auto; text-align: center; width: 80%}
     .grow_business_title {margin-top: 40px;}
     .grow_business_people {width: 100%;}
@@ -747,9 +765,18 @@ body{
     .best_figures_widget_name {font-size: calc(2vw + 5px);}
     .best_figures_container {flex-wrap: wrap;}
     .best_figures_widget {width: 50%;}
+    .header_navbar {height: 60px;}
 }
 
 @media (max-width: 556px) {
+    .header_media_icons {display: none;}
+    .header_media_icons.active{position: fixed; top: 234px; width: 100%; background-color: white; display: inline-flex; height: 33px; justify-content: center;}
+    .header_media_icons svg{fill: #095dc7;}
+    .header_communication_icons_mail {display: none;}
+    .header_logo_img {position: absolute;  top: 19px;  width: 22px;}
+    .header_logo_img svg {position: fixed; fill: #095dc7; z-index: 3; top: 20px; right: 65px; width: 20px;}
+    .header_navbar_menu.active {top: 60px;}
+    .grow_business_block {padding-top: 60px;}
     .grow_business_title {font-size: calc(3vw + 20px);}
     .latest_project_img {width: 100%;}
     .meet_team_workers_card {flex: 0 1 100%;}
@@ -760,4 +787,6 @@ body{
     .best_figures_widget {padding: 65px 0;}
     .best_figures_widget_count {font-size: calc(4vw + 7px);}
     .best_figures_widget_name {font-size: calc(2vw + 7px);}
+    .header_container {position: absolute; top: 0px; z-index: 3; }
+    .header_navbar {position: fixed;}
 }
