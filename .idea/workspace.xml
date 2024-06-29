@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55babe75-e2aa-487d-b73b-b7c4d73cf4c2" name="Changes" comment="decomposition">
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/MYRIADPRO-REGULAR.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/best_figures.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/grow_business.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/grow_business_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/grow_business_people.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/logo_magnifier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/logo_navbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/mail_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/phone_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/social_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/best_figures.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/data_site.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/grow_business.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/latest_project.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP_4" />
+  <component name="ProjectId" id="2bPIHG0ezQLUZ4AeJKRNC1w1eTK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/OSPanel/domains/HTML-CSS/layout_grow_your_business",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\fonts" />
+      <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\img" />
+      <recent name="C:\OSPanel\domains\HTML-CSS\layout_apartments_rent\img" />
+      <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\img" />
+      <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\inc" />
+      <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55babe75-e2aa-487d-b73b-b7c4d73cf4c2" name="Changes" comment="" />
+      <created>1706110197592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706110197592</updated>
+      <workItem from="1706110198582" duration="1113000" />
+      <workItem from="1706127229590" duration="1029000" />
+      <workItem from="1706167385276" duration="345000" />
+      <workItem from="1706168543887" duration="7028000" />
+      <workItem from="1706199180724" duration="3299000" />
+      <workItem from="1706253344513" duration="3480000" />
+      <workItem from="1706257814088" duration="628000" />
+      <workItem from="1706543869337" duration="3345000" />
+      <workItem from="1706547940706" duration="900000" />
+      <workItem from="1706549453998" duration="139000" />
+      <workItem from="1706550597099" duration="1099000" />
+      <workItem from="1706768093959" duration="4137000" />
+      <workItem from="1706805649578" duration="4856000" />
+      <workItem from="1706810993214" duration="94000" />
+      <workItem from="1706947998677" duration="6304000" />
+      <workItem from="1707148452095" duration="736000" />
+      <workItem from="1707155658640" duration="7245000" />
+      <workItem from="1707202564945" duration="3063000" />
+      <workItem from="1707240484770" duration="2031000" />
+      <workItem from="1707575235337" duration="2002000" />
+      <workItem from="1707579665083" duration="16000" />
+      <workItem from="1707579869051" duration="973000" />
+      <workItem from="1707627547022" duration="7559000" />
+      <workItem from="1707639354662" duration="965000" />
+      <workItem from="1707817236200" duration="1014000" />
+      <workItem from="1707841646522" duration="3394000" />
+      <workItem from="1707892923739" duration="10938000" />
+      <workItem from="1707937214669" duration="900000" />
+      <workItem from="1708117979815" duration="29000" />
+      <workItem from="1708119220964" duration="288000" />
+      <workItem from="1708150194877" duration="604000" />
+      <workItem from="1708150943600" duration="727000" />
+      <workItem from="1708153373883" duration="7784000" />
+      <workItem from="1708180191724" duration="95000" />
+      <workItem from="1708181153784" duration="477000" />
+      <workItem from="1708187034511" duration="218000" />
+      <workItem from="1708624043141" duration="518000" />
+      <workItem from="1708626060307" duration="871000" />
+      <workItem from="1708842231400" duration="44000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix img path">
+      <option name="closed" value="true" />
+      <created>1706110263767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706110263767</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix img logo path">
+      <option name="closed" value="true" />
+      <created>1706110463336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706110463336</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add adaptive for layout">
+      <option name="closed" value="true" />
+      <created>1707242517173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707242517173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix block our company">
+      <option name="closed" value="true" />
+      <created>1707576789705</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707576789705</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix our company widget">
+      <option name="closed" value="true" />
+      <created>1707639598979</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707639598979</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix err title apartments block and fix widget our company">
+      <option name="closed" value="true" />
+      <created>1707843971755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707843971755</updated>
+    </task>
+    <task id="LOCAL-00007" summary="decomposition">
+      <option name="closed" value="true" />
+      <created>1707852369179</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707852369179</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix img path" />
+    <MESSAGE value="fix img logo path" />
+    <MESSAGE value="add adaptive for layout" />
+    <MESSAGE value="fix block our company" />
+    <MESSAGE value="fix our company widget" />
+    <MESSAGE value="fix err title apartments block and fix widget our company" />
+    <MESSAGE value="decomposition" />
+    <option name="LAST_COMMIT_MESSAGE" value="decomposition" />
+  </component>
+</project>

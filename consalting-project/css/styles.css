@@ -1,0 +1,406 @@
+@font-face {
+    font-family: 'Poppins-Regular';
+    font-weight: normal;
+    src: url("../fonts/Poppins-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Poppins-SemiBold';
+    font-weight: bold;
+    src: url("../fonts/Poppins-SemiBold.ttf");
+}
+
+
+
+.container {
+    max-width: 1230px;
+    height: 100%;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 90px;
+    width: 100%;
+}
+
+.header_body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.header_logo {
+    height: 100%;
+    width: 200px;
+    background-size: 100% 26px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.menu_top {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.menu_top_list_item {
+    font-family: 'Poppins-SemiBold';
+    font-size: 15px;
+    text-transform: uppercase;
+    list-style-type: none;
+    display: inline-flex;
+    align-items: center;
+    padding: 0 17px;
+}
+
+.header_top_list_link {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 0;
+    color: #10242b;
+}
+
+.header_top_list_link:hover {
+    color: #e9563d;
+}
+
+.header_contacts {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    height: 100%;
+}
+
+.header_contacts_logo_phone {
+    height: 100%;
+    width: 22px;
+    background-size: 22px 35px;
+    background-repeat: no-repeat;
+    background-position:  center;
+}
+
+.header_contacts_info {
+    height: 35px;
+}
+
+.header_contacts_text {
+    color: #718389;
+    font-family: 'Poppins-SemiBold';
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-top: -5px;
+}
+
+.header_contacts_number {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Poppins-SemiBold';
+    margin-top: -8px;
+}
+
+.complete_consulting_block {
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.complete_consulting_body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.complete_consulting_content{
+    max-width: 570px;
+    text-align: center;
+}
+
+.complete_consulting_title_item {
+    color: white;
+    font-family: 'Poppins-SemiBold';
+    font-size: 52px;
+    line-height: 55px;
+}
+
+.complete_consulting_button_link {
+    display: flex;
+    width: 150px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    background: #67b930;
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins-SemiBold';
+    font-size: 14px;
+    margin: 0 auto;
+    border-radius: 2px;
+    text-transform: uppercase;
+
+}
+
+.consulting_aid_body {
+    display: flex;
+    justify-content: space-between;
+    height: 530px;
+    margin: 0 0 100px 0;
+}
+
+.consulting_aid_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.consulting_aid_title {
+    margin: 84px 0 0 0;
+}
+
+.consulting_aid_title_item {
+    font-family: 'Poppins-SemiBold';
+    font-size: 36px;
+    margin: 1px 0;
+}
+
+.consulting_aid_text{
+    max-width: 718px;
+}
+
+.consulting_aid_text {
+    font-family: Poppins-Regular;
+    font-size: 15px;
+    line-height: 30px;
+    color: #677074;
+    margin: 0 0 52px 0;
+}
+
+.consulting_aid_text_item{
+    margin: 10px 0;
+}
+
+.consulting_aid_experience {
+    width: 718px;
+    height: 214px;
+    background:  #9b9fa0;
+    display: flex;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.consulting_aid_experience_years {
+    width: calc(100% - 316px);
+    height: 100%;
+    background-size: cover;
+}
+.consulting_aid_experience_image {
+    width: 316px;
+    height: 100%;
+    background: #888f91;
+}
+
+.consulting_aid_form {
+    margin: -78px 0 0 0;
+    width: 370px;
+    height: 608px;
+    box-sizing: border-box;
+}
+
+.consulting_aid_form_title {
+    height: 78px;
+    display: flex;
+    align-items: center;
+    padding: 0 39px;
+    background: #3db8db;
+}
+
+.consulting_aid_form_title_item{
+    margin: 0;
+    font-family: Poppins-SemiBold;
+    font-size: 28px;
+    color: white;
+}
+
+.consulting_aid_form_body {
+    padding: 11px 39px;
+    height: calc(100% - 78px);
+    background: #ebf1f6;
+    box-sizing: border-box;
+}
+
+
+
+.consulting_form_input  {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #cdd6de;
+    background: none;
+    box-sizing: border-box;
+}
+
+.consulting_form_input:focus {
+    outline: none;
+}
+
+.consulting_form_input[type=text] {
+    font-family: Poppins-Regular;
+    font-size: 15px;
+    color: #5c666a;
+    padding: 22px 4px 10px 4px;
+}
+
+.consulting_form_input.error {
+    border-bottom: 1px solid red;
+}
+
+.consulting_form_message {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 170px;
+    border: none;
+    border-bottom: 1px solid #cdd6de;
+    background: none;
+    box-sizing: border-box;
+    resize: none;
+}
+
+.consulting_form_message:focus {
+    outline: none;
+}
+
+.consulting_form_message[type=text] {
+    font-family: Poppins-Regular;
+    font-size: 15px;
+    color: #5c666a;
+    padding: 23px 4px 0 4px;
+}
+
+::-webkit-input-placeholder {
+    color:    #5c666a;
+    font-size: 15px;
+    font-family: Poppins-Regular;
+}
+
+.consulting_form_select{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #cdd6de;
+    padding: 22px 0 10px 0;
+    background: none;
+    box-sizing: border-box;
+    color:    #5c666a;
+    font-size: 15px;
+    font-family: Poppins-Regular;
+}
+.consulting_form_select:focus{
+    outline: none;
+}
+
+.consulting_form_select option {
+    color:    #5c666a;
+    font-size: 15px;
+    font-family: Poppins-Regular;
+    padding: 0;
+}
+
+
+
+.consulting_aid_form_button {
+    background: #67b930;
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins-SemiBold';
+    font-size: 14px;
+    margin: 30px auto;
+    border-radius: 2px;
+    text-transform: uppercase;
+    width: 100%;
+    height: 53px;
+    border: none;
+    cursor: pointer;
+}
+
+.our_services_block {
+    background: #ebf1f6;
+    height: 556px;
+}
+
+.our_services_body {
+    width: 100%;
+    padding: 55px 0 0 0;
+}
+
+.our_services_title {
+    text-align: center;
+    font-family: Poppins-SemiBold;
+    font-size: 36px;
+}
+
+.our_services_slider {
+    height: 290px;
+}
+
+our_services_slider_body {
+    max-width: 370px;
+    padding-rigth: 58px;
+}
+
+.our_services_slider_img {
+    width: 46px;
+    height: 42px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+
+.our_services_slider_title {
+    font-family: Poppins-SemiBold;
+    font-size: 21px;
+}
+
+.our_services_slider_text {
+    padding-right: 100px;
+    font-family: Poppins-Regular;
+    font-size: 15px;
+    line-height: 30px;
+    color: #5c666a;
+}
+
+
+.swiper-container {
+    box-sizing: border-box;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.our_services_slider_img {
+    text-align: center;
+}
+
+.our_services_slider_img {
+    max-width: 100%;
+}
+
+.swiper-pagination-bullet {
+    width: 14px;
+    height: 14px;
+    border: 2px solid #67b930;
+    background: #ebf1f6;
+    opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+    color: #e9563d;
+    width: 14px;
+    height: 14px;
+    border: 2px solid #e9563d;
+}
+
+
