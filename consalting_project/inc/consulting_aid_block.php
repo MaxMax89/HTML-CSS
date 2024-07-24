@@ -16,8 +16,8 @@
                     </p>
                 </div>
                 <div class="consulting_aid_experience">
-                    <div class="consulting_aid_experience_years" style="background-image: url('img/later.png')"></div>
-                    <div class="consulting_aid_experience_image"></div>
+                    <div class="consulting_aid_experience_years" style="background-image: url('img/year_later.png')"></div>
+                    <div class="consulting_aid_experience_image" style="background-image: url('img/consalt_experians.jpg')"></div>
                 </div>
             </div>
             <div class="consulting_aid_form">

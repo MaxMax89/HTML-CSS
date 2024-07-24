@@ -1,0 +1,73 @@
+@media(max-width: 1200px){
+    .header_contacts_info {display: none;}
+    .header_contacts {width: auto;}
+    .consulting_aid_content {padding: 0 30px 0 0;}
+    .our_testimonials_block {padding: 60px 0}
+    .footer_body {flex-wrap: wrap;}
+    .footer_body_column {width: 100%; justify-content: space-between; padding: 0 15%; box-sizing: border-box;}
+    .footer_newsletter_input {width: 162px;}
+    .footer_newsletter_button {width: 100px;}
+    .footer_services {margin: 0;}
+
+}
+
+@media(max-width: 996px){
+    .consulting_aid_body {flex-direction: column; height: auto;}
+    .consulting_aid_content {padding: 0;}
+    .consulting_aid_form {margin: 10px 0 0 0;}
+    .consulting_aid_content {align-items: center;}
+    .consulting_aid_experience {min-width: 100%;}
+    .consulting_aid_form {margin: 20px auto; width: 470px;}
+}
+
+@media (max-width: 768px) {
+    .complete_consulting_block {height: 510px;}
+    .consulting_aid_body {margin: 0 0 60px 0;}
+    .consulting_aid_experience { flex-direction: column; height: auto;}
+    .consulting_aid_experience_years {height: 214px; width: 100%;}
+    .consulting_aid_experience_image {height: 214px; width: 100%;}
+    .footer_body_column {padding: 0 10px;}
+}
+
+@media (max-width: 670px) {
+    .latest_project_slide {padding: 0 12%; box-sizing: border-box;}
+}
+
+@media(max-width: 556px){
+    .container {padding: 0 15px;}
+    .header {height: 70px;}
+    .menu_top.active {top:70px;}
+    .header_logo {width: 140px; background-size: 100% 22px;}
+    .menu_top_icon {width: 35px; height: 25px;}
+    .menu_top_icon span {top: 11px;}
+    .menu_top_icon.active:before {top: 11px;}
+    .menu_top_icon.active:after {bottom: 11px;}
+    .complete_consulting_block {height: 420px;}
+    .complete_consulting_title_item {font-size: 45px;}
+    .consulting_aid_body {margin: 0 0 40px 0;}
+    .consulting_aid_title {margin: 45px 0 0 0;}
+    .consulting_aid_title_item { font-size: calc(4vw + 10px);}
+    .consulting_aid_text {margin: 0 0 40px 0;}
+    .consulting_aid_form {width: 290px; height: auto;}
+    .consulting_form_message {height: auto;}
+    .consulting_aid_experience_years {height: 150px;}
+    .consulting_aid_experience_image {height: 150px;}
+    .our_services_title {font-size: calc(4vw + 10px);}
+    .our_testimonials_title {font-size: calc(4vw + 10px);}
+    .latest_project_slide {padding: 0 10%;}
+    .latest_project_block {padding: 60px 0;}
+    .footer_body_column {flex-direction: column; align-items: center; padding: 0;}
+    .footer_newsletter {width: 100%;}
+    .footer_newsletter_input{width: 60%;}
+    .footer_newsletter_button {width: 80px; font-size: 12px;}
+    .footer_newsletter {text-align: center;}
+    .footer_newsletter_form {justify-content: center;}
+    .footer_newsletter_social {justify-content: center;}
+
+
+}
+
+@media (max-width: 400px) {
+    .latest_project_slide {padding: 0;}
+}
+

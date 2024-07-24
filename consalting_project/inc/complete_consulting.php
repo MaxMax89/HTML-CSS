@@ -1,4 +1,4 @@
-<section class="complete_consulting_block" style="background-image: url('img/consalting_bg.jpg')">
+<section class="complete_consulting_block" style="background-image: url('img/consalt_bg.jpg')">
     <div class="container">
         <div class="complete_consulting_body">
             <div class="complete_consulting_content">

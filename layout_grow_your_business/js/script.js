@@ -1,6 +1,7 @@
 $(function (){
     $(document).on("click", ".header_navbar_menu_icon", activeiteTopMenu);
     $(document).on("click", ".footer_menu_icon", activeiteFooterMenu);
+    $(document).on("click", ".menu_top_icon", activeiteFooterMenu);
 
 
 

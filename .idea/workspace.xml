@@ -4,67 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55babe75-e2aa-487d-b73b-b7c4d73cf4c2" name="Changes" comment="decomposition">
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Lato-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/MYRIADPRO-REGULAR.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/fonts/Poppins-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/Vector Smart Object5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/best_figures.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/grow_business.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/grow_business_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/grow_business_people.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/latest_project06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/logo_magnifier.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/logo_navbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/mail_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/phone_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/img/social_icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/best_figures.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/data_site.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/grow_business.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/latest_project.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/navbar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout_grow_your_business/index.php" afterDir="false" />
+    <list default="true" id="55babe75-e2aa-487d-b73b-b7c4d73cf4c2" name="Changes" comment="rename project dir">
+      <change afterPath="$PROJECT_DIR$/consalting_project/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/fonts/Montserrat-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/fonts/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/consalt_experians.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/icon_rating.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/logo/icon_email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/logo/icon_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/logo/our_testi_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/logo/our_testi_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/inc/latest_projects.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/inc/our_testimonials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/data/data.page.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/data/data.page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/img/later.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/inc/complete_consulting.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/complete_consulting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/inc/consulting_aid_block.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/consulting_aid_block.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/inc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/inc/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/inc/our_services.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/our_services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/js/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/js/swiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout_grow_your_business/inc/data_site.php" beforeDir="false" afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/data_site.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout_grow_your_business/inc/latest_project.php" beforeDir="false" afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/latest_project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout_grow_your_business/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/layout_grow_your_business/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -95,27 +63,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/OSPanel/domains/HTML-CSS/layout_grow_your_business",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/OSPanel/domains/HTML-CSS/layout_grow_your_business&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\HTML-CSS\consalting_project\img\logo" />
+      <recent name="C:\OSPanel\domains\HTML-CSS\consalting_project\fonts" />
+      <recent name="C:\OSPanel\domains\HTML-CSS\consalting_project\img" />
       <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\fonts" />
       <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\img" />
-      <recent name="C:\OSPanel\domains\HTML-CSS\layout_apartments_rent\img" />
-      <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\img" />
@@ -170,6 +139,24 @@
       <workItem from="1708624043141" duration="518000" />
       <workItem from="1708626060307" duration="871000" />
       <workItem from="1708842231400" duration="44000" />
+      <workItem from="1719645516943" duration="2852000" />
+      <workItem from="1719910376379" duration="2000" />
+      <workItem from="1720277446926" duration="2588000" />
+      <workItem from="1720370122007" duration="3590000" />
+      <workItem from="1720379515772" duration="446000" />
+      <workItem from="1720462508556" duration="2372000" />
+      <workItem from="1720550423654" duration="1358000" />
+      <workItem from="1720632617106" duration="2879000" />
+      <workItem from="1720722202295" duration="4342000" />
+      <workItem from="1721409965645" duration="6925000" />
+      <workItem from="1721568610086" duration="6536000" />
+      <workItem from="1721630804737" duration="8229000" />
+      <workItem from="1721642752760" duration="3052000" />
+      <workItem from="1721669546006" duration="5355000" />
+      <workItem from="1721724419924" duration="5745000" />
+      <workItem from="1721765253850" duration="6424000" />
+      <workItem from="1721803491138" duration="7401000" />
+      <workItem from="1721842682352" duration="2491000" />
     </task>
     <task id="LOCAL-00001" summary="fix img path">
       <option name="closed" value="true" />
@@ -227,7 +214,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707852369179</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add consalting project">
+      <option name="closed" value="true" />
+      <created>1719645582682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719645582682</updated>
+    </task>
+    <task id="LOCAL-00009" summary="rename project dir">
+      <option name="closed" value="true" />
+      <created>1719645708308</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719645708309</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +255,8 @@
     <MESSAGE value="fix our company widget" />
     <MESSAGE value="fix err title apartments block and fix widget our company" />
     <MESSAGE value="decomposition" />
-    <option name="LAST_COMMIT_MESSAGE" value="decomposition" />
+    <MESSAGE value="add consalting project" />
+    <MESSAGE value="rename project dir" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename project dir" />
   </component>
 </project>
