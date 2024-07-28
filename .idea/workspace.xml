@@ -4,34 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55babe75-e2aa-487d-b73b-b7c4d73cf4c2" name="Changes" comment="rename project dir">
-      <change afterPath="$PROJECT_DIR$/consalting_project/css/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/fonts/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/fonts/Poppins-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/img/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/img/consalt_experians.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/img/icon_rating.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/img/logo/icon_email.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/img/logo/icon_location.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/img/logo/our_testi_bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/img/logo/our_testi_top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/inc/latest_projects.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/inc/our_testimonials.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consalting_project/js/script.js" afterDir="false" />
+    <list default="true" id="55babe75-e2aa-487d-b73b-b7c4d73cf4c2" name="Changes" comment="finish adaptive">
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/client_avatar02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/client_avatar03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/client_avatar04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/client_avatar05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/consalt_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/latest_project01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/latest_project02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/latest_project03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/latest_project04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/latest_project05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consalting_project/img/year_later.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/css/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/consalting_project/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/consalting_project/data/data.page.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/data/data.page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consalting_project/img/later.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consalting_project/inc/complete_consulting.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/complete_consulting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consalting_project/inc/consulting_aid_block.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/consulting_aid_block.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consalting_project/inc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consalting_project/inc/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consalting_project/inc/our_services.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/our_services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consalting_project/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/img/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/img/client_avatar01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/inc/latest_projects.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/latest_projects.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consalting_project/inc/our_testimonials.php" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/inc/our_testimonials.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/consalting_project/js/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/consalting_project/js/swiper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout_grow_your_business/inc/data_site.php" beforeDir="false" afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/data_site.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout_grow_your_business/inc/latest_project.php" beforeDir="false" afterPath="$PROJECT_DIR$/layout_grow_your_business/inc/latest_project.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout_grow_your_business/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/layout_grow_your_business/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,26 +55,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/OSPanel/domains/HTML-CSS/layout_grow_your_business&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/OSPanel/domains/HTML-CSS/consalting_project/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\HTML-CSS\consalting_project\img" />
       <recent name="C:\OSPanel\domains\HTML-CSS\consalting_project\img\logo" />
       <recent name="C:\OSPanel\domains\HTML-CSS\consalting_project\fonts" />
-      <recent name="C:\OSPanel\domains\HTML-CSS\consalting_project\img" />
       <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\fonts" />
       <recent name="C:\OSPanel\domains\HTML-CSS\layout_grow_your_business\img" />
     </key>
@@ -156,7 +148,9 @@
       <workItem from="1721724419924" duration="5745000" />
       <workItem from="1721765253850" duration="6424000" />
       <workItem from="1721803491138" duration="7401000" />
-      <workItem from="1721842682352" duration="2491000" />
+      <workItem from="1721842682352" duration="2788000" />
+      <workItem from="1721846097676" duration="829000" />
+      <workItem from="1722148904244" duration="14069000" />
     </task>
     <task id="LOCAL-00001" summary="fix img path">
       <option name="closed" value="true" />
@@ -230,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719645708309</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="finish adaptive">
+      <option name="closed" value="true" />
+      <created>1721845249143</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721845249143</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +259,7 @@
     <MESSAGE value="decomposition" />
     <MESSAGE value="add consalting project" />
     <MESSAGE value="rename project dir" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename project dir" />
+    <MESSAGE value="finish adaptive" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish adaptive" />
   </component>
 </project>

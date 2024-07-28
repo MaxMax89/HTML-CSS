@@ -4,23 +4,24 @@ new Swiper('.our_services_slider',{
         el: '.our_services_pagination',
         type: 'bullets',
         clickable: true,
+        sticky: false,
     },
 
     slidesPerView: 3,
     breakpoints: {
         1200: {
             slidesPerView: 3,
-            spaceBetween: 1,
+            spaceBetween: 30,
             slideToClickedSlide: true,
         },
         690: {
             slidesPerView: 2,
-            spaceBetween: 1,
+            spaceBetween: 30,
             slideToClickedSlide: true,
         },
         320: {
             slidesPerView: 1,
-            spaceBetween: 1,
+            spaceBetween: 30,
             slideToClickedSlide: true,
         },
 

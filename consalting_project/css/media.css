@@ -52,6 +52,7 @@
     .consulting_form_message {height: auto;}
     .consulting_aid_experience_years {height: 150px;}
     .consulting_aid_experience_image {height: 150px;}
+    .our_services_block {height: 475px;}
     .our_services_title {font-size: calc(4vw + 10px);}
     .our_testimonials_title {font-size: calc(4vw + 10px);}
     .latest_project_slide {padding: 0 10%;}
@@ -69,5 +70,6 @@
 
 @media (max-width: 400px) {
     .latest_project_slide {padding: 0;}
+    .swiper-wrapper {padding-bottom: 15px;}
 }
 

@@ -45,46 +45,94 @@ $services = [
 	]
 ];
 
-$ourTestimonials = [
-				 'Lorem Ipsum is simply dummy 
-				text of the printing and typesetting industry. 
-				Lorem Ipsum has been the industry\'s standard dummy 
-				text ever since the 1500s, when an unknown printer 
-				took a galley of type and scrambled it to make a type 
-				specimen book.',
+$ourTestimonialsFeedback = [
+	[
+		'name'        => 'Alf',
+		'designation' => 'designation',
+		'avatar'      => 'img/client_avatar01.jpg',
+		'text'        => 'Lorem Ipsum is simply dummy
+		                  text of the printing and typesetting industry. 
+		                  Lorem Ipsum has been the industry\'s standard 
+		                  dummy text ever since the 1500s, when an unknown
+		                   printer took a galley of type and scrambled it to make 
+		                   a type specimen book.
+'
+	],
+	[
+		'name'        => 'dr emet brown',
+		'designation' => 'designation',
+		'avatar'      => 'img/client_avatar02.jpg',
+		'text'        => 'Lorem Ipsum is simply dummy
+		                  text of the printing and typesetting industry. 
+		                  Lorem Ipsum has been the industry\'s standard 
+		                  dummy text ever since the 1500s, when an unknown
+		                   printer took a galley of type and scrambled it to make 
+		                   a type specimen book.
+'
+	],
+	[
+		'name'        => 'piter griffin',
+		'designation' => 'designation',
+		'avatar'      => 'img/client_avatar03.jpg',
+		'text'        => 'Lorem Ipsum is simply dummy
+		                  text of the printing and typesetting industry. 
+		                  Lorem Ipsum has been the industry\'s standard 
+		                  dummy text ever since the 1500s, when an unknown
+		                   printer took a galley of type and scrambled it to make 
+		                   a type specimen book.
+'
+	],
+	[
+		'name'        => 'darth wader',
+		'designation' => 'designation',
+		'avatar'      => 'img/client_avatar04.jpg',
+		'text'        => 'Lorem Ipsum is simply dummy
+		                  text of the printing and typesetting industry. 
+		                  Lorem Ipsum has been the industry\'s standard 
+		                  dummy text ever since the 1500s, when an unknown
+		                   printer took a galley of type and scrambled it to make 
+		                   a type specimen book.
+'
+	],
+	[
+		'name'        => 'владимир путин',
+		'designation' => 'designation',
+		'avatar'      => 'img/client_avatar05.jpg',
+		'text'        => 'Lorem Ipsum is simply dummy
+		                  text of the printing and typesetting industry. 
+		                  Lorem Ipsum has been the industry\'s standard 
+		                  dummy text ever since the 1500s, when an unknown
+		                   printer took a galley of type and scrambled it to make 
+		                   a type specimen book.
+'
+	]
 
-	 			'Lorem Ipsum is simply dummy 
-				text of the printing and typesetting industry. 
-				Lorem Ipsum has been the industry\'s standard dummy 
-				text ever since the 1500s, when an unknown printer 
-				took a galley of type and scrambled it to make a type 
-				specimen book.',
 ];
 
 
 $latestProjects = [
 	[
-		'img' => '',
+		'img' => 'img/latest_project01.jpg',
 		'date'=> '6-jun-2017',
 		'text'=> 'Pellentesque molestie ante and consectetur...'
 	],
 	[
-		'img' => '',
+		'img' => 'img/latest_project02.jpg',
 		'date'=> '6-jun-2017',
 		'text'=> 'Pellentesque molestie ante and consectetur...'
 	],
 	[
-		'img' => '',
+		'img' => 'img/latest_project03.jpg',
 		'date'=> '6-jun-2017',
 		'text'=> 'Pellentesque molestie ante and consectetur...'
 	],
 	[
-		'img' => '',
+		'img' => 'img/latest_project04.jpg',
 		'date'=> '6-jun-2017',
 		'text'=> 'Pellentesque molestie ante and consectetur...'
 	],
 	[
-		'img' => '',
+		'img' => 'img/latest_project05.jpg',
 		'date'=> '6-jun-2017',
 		'text'=> 'Pellentesque molestie ante and consectetur...'
 	],

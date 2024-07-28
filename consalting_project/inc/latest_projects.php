@@ -5,6 +5,7 @@
             <div class="swiper-wrapper latest_project_slider_wrapper">
 				<? foreach ($latestProjects as $item): ?>
                     <div class="latest_project_slide swiper-slide">
+                        <a href="#" class="latest_project_slide_link">
                         <div class="latest_project_slide_body">
                             <div class="latest_project_slide_img">
                                 <img src="<?= $item['img'] ?>" alt="">
@@ -14,6 +15,7 @@
                                 <div class="latest_project_slide_text"><?= $item['text'] ?></div>
                             </div>
                         </div>
+                        </a>
                     </div>
 				<? endforeach; ?>
             </div>
