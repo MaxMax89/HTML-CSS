@@ -26,9 +26,9 @@
                 </div>
                 <div class="consulting_aid_form_body">
                     <form class="consulting_aid_form_item" action="#">
-                        <input class="consulting_form_input"  id="name" type="text" placeholder="Name*">
-                        <input class="consulting_form_input" id="email" type="text" placeholder="Email*">
-                        <input class="consulting_form_input"  id="phone" type="text" placeholder="Phone*">
+                        <input class="consulting_form_input"  id="name" type="text" placeholder="Name*" autocomplete=“off”>
+                        <input class="consulting_form_input" id="email" type="text" placeholder="Email*" autocomplete=“off”>
+                        <input class="consulting_form_input"  id="phone" type="text" placeholder="Phone*" autocomplete=“off”>
                         <select class="consulting_form_select"  id="select" name="dfd">
                             <option  value="1" selected>Service*</option>
                             <option  value="2">Service1</option>

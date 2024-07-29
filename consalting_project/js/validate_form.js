@@ -9,7 +9,8 @@ $(document).ready(function (){
          error = checkInput(inputValue, error);
         console.log(error);
         if(error == 0){
-            $("form").unbind('submit').submit();
+            $("form").addClass('success');
+            $(".consulting_aid_form_body").addClass("active");
             $('form')[0].reset();
 
         }

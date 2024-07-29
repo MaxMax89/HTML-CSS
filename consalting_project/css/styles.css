@@ -34,6 +34,7 @@ a {
 .header {
     height: 90px;
     width: 100%;
+    background: white;
 }
 
 .header_body{
@@ -71,11 +72,10 @@ a {
     display: inline-block;
     padding: 10px 0;
     color: #10242b;
+    cursor: pointer;
 }
 
-.header_top_list_link:hover {
-    color: #e9563d;
-}
+
 
 @media (max-width: 1200px) {
 
@@ -320,6 +320,7 @@ a {
     box-sizing: border-box;
 }
 
+
 .consulting_aid_form_title {
     height: 78px;
     display: flex;
@@ -335,10 +336,32 @@ a {
     color: white;
 }
 
+.consulting_aid_form_item.success {
+    display: none;
+}
+
+
+
+
 .consulting_aid_form_body {
     padding: 15px 39px;
     height: calc(100% - 78px);
     background: #ebf1f6;
+    box-sizing: border-box;
+}
+
+.consulting_aid_form_body.active::after{
+    content: "Success";
+    font-size: 30px;
+    font-family: Poppins-SemiBold;
+}
+
+.consulting_aid_form_body.active {
+    background-image: url("../img/form_success.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 55px;
     box-sizing: border-box;
 }
 
@@ -362,14 +385,14 @@ a {
     font-family: Poppins-Regular;
     font-size: 15px;
     color: #5c666a;
-    padding: 15px 4px 10px 4px;
+    padding: 15px 10px 10px 10px;
     margin: 12px 0 12px 0;
 }
 
 .consulting_form_input.error {
     border: 1px solid red;
     border-radius: 3px;
-    background: #FFDBDB;
+    background: #FAEBEB;
 }
 
 .consulting_form_message {
@@ -392,7 +415,7 @@ a {
     font-family: Poppins-Regular;
     font-size: 15px;
     color: #5c666a;
-    padding: 26px 4px 0 4px;
+    padding: 26px 10px 0 10px;
 }
 
 ::-webkit-input-placeholder {
@@ -405,7 +428,7 @@ a {
     width: 100%;
     border: none;
     border-bottom: 1px solid #cdd6de;
-    padding: 10px 0 10px 0;
+    padding: 10px 6px 10px 6px;
     background: none;
     box-sizing: border-box;
     color:    #5c666a;

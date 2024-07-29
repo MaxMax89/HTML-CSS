@@ -1,13 +1,21 @@
 @media(max-width: 1200px){
+    .header {position: fixed; z-index: 10;}
     .header_contacts_info {display: none;}
     .header_contacts {width: auto;}
+    .menu_top_icon {width: 35px; height: 25px;}
+    .menu_top_icon span {top: 11px;}
+    .menu_top_icon.active:before {top: 11px;}
+    .menu_top_icon.active:after {bottom: 11px;}
+    .complete_consulting_block {padding-top: 90px; box-sizing: border-box;}
     .consulting_aid_content {padding: 0 30px 0 0;}
+    .consulting_aid_form_body {padding: 15px 30px;}
     .our_testimonials_block {padding: 60px 0}
     .footer_body {flex-wrap: wrap;}
     .footer_body_column {width: 100%; justify-content: space-between; padding: 0 15%; box-sizing: border-box;}
     .footer_newsletter_input {width: 162px;}
     .footer_newsletter_button {width: 100px;}
     .footer_services {margin: 0;}
+    .header_top_list_link {display: block; width: 100%}
 
 }
 
@@ -38,17 +46,13 @@
     .header {height: 70px;}
     .menu_top.active {top:70px;}
     .header_logo {width: 140px; background-size: 100% 22px;}
-    .menu_top_icon {width: 35px; height: 25px;}
-    .menu_top_icon span {top: 11px;}
-    .menu_top_icon.active:before {top: 11px;}
-    .menu_top_icon.active:after {bottom: 11px;}
     .complete_consulting_block {height: 420px;}
     .complete_consulting_title_item {font-size: 45px;}
     .consulting_aid_body {margin: 0 0 40px 0;}
     .consulting_aid_title {margin: 45px 0 0 0;}
     .consulting_aid_title_item { font-size: calc(4vw + 10px);}
     .consulting_aid_text {margin: 0 0 40px 0;}
-    .consulting_aid_form {width: 290px; height: auto;}
+    .consulting_aid_form {width: 100%; height: 475px;}
     .consulting_form_message {height: auto;}
     .consulting_aid_experience_years {height: 150px;}
     .consulting_aid_experience_image {height: 150px;}
@@ -57,6 +61,13 @@
     .our_testimonials_title {font-size: calc(4vw + 10px);}
     .latest_project_slide {padding: 0 10%;}
     .latest_project_block {padding: 60px 0;}
+    .footer {padding: 10px 0 20px 0;}
+    .footer_title {font-size: 30px;}
+    .footer_navigation_menu_link {font-size: 25px;}
+    .footer_services_menu_link {font-size: 20px;}
+    .footer_contact_info {text-align: center;}
+    .footer_navigation_menu {text-align: center;}
+    .footer_services {text-align: center;}
     .footer_body_column {flex-direction: column; align-items: center; padding: 0;}
     .footer_newsletter {width: 100%;}
     .footer_newsletter_input{width: 60%;}
@@ -64,6 +75,7 @@
     .footer_newsletter {text-align: center;}
     .footer_newsletter_form {justify-content: center;}
     .footer_newsletter_social {justify-content: center;}
+    .consulting_aid_form_body.active {padding-top: 30px;}
 
 
 }
