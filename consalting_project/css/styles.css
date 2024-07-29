@@ -362,11 +362,14 @@ a {
     font-family: Poppins-Regular;
     font-size: 15px;
     color: #5c666a;
-    padding: 22px 4px 16px 4px;
+    padding: 15px 4px 10px 4px;
+    margin: 12px 0 12px 0;
 }
 
 .consulting_form_input.error {
-    border-bottom: 1px solid red;
+    border: 1px solid red;
+    border-radius: 3px;
+    background: #FFDBDB;
 }
 
 .consulting_form_message {
@@ -389,7 +392,7 @@ a {
     font-family: Poppins-Regular;
     font-size: 15px;
     color: #5c666a;
-    padding: 23px 4px 0 4px;
+    padding: 26px 4px 0 4px;
 }
 
 ::-webkit-input-placeholder {
@@ -402,7 +405,7 @@ a {
     width: 100%;
     border: none;
     border-bottom: 1px solid #cdd6de;
-    padding: 22px 0 10px 0;
+    padding: 10px 0 10px 0;
     background: none;
     box-sizing: border-box;
     color:    #5c666a;
